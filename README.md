@@ -1,5 +1,7 @@
 # globule [![Build Status](https://secure.travis-ci.org/cowboy/node-globule.png?branch=master)](http://travis-ci.org/cowboy/node-globule)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/node-globule.svg)](https://greenkeeper.io/)
+
 An easy-to-use wildcard globbing library.
 
 ## Getting Started
